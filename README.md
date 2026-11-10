@@ -119,16 +119,18 @@ No. Whalyon is closed source and runs at [whalyon.com](https://whalyon.com). Thi
 
 Whalyon is made by **[Whalya](https://github.com/whalya-studio)**, a product-led venture studio.
 
-| Product | What it does |
-|:--|:--|
-| **[Whalyom](https://github.com/gilebehnam/whalyom)** | Your entire marketing department inside Claude Code: 536 AI agents in 28 departments. Open source. |
-| **[Whalory](https://github.com/gilebehnam/whalory)** | Makes the AI you already use write like a professional copywriter, in English and Persian, with local linters. |
+| Product | What it does | Website |
+|:--|:--|:--|
+| **[Whalyom](https://github.com/gilebehnam/whalyom)** | Your entire marketing department inside Claude Code: 536 AI agents in 28 departments. Open source. | [whalyom.com](https://whalyom.com) |
+| **[Whalory](https://github.com/gilebehnam/whalory)** | Makes the AI you already use write like a professional copywriter, in English and Persian, with local linters. | [whalory.com](https://whalory.com) |
+
+Whalya was founded by **[Behnam Jafari Balalami](https://behnaam.com)**. More about the studio: [github.com/whalya-studio](https://github.com/whalya-studio).
 
 > ⭐ **If Whalyon helped you see your business more clearly, star this repository** so other owners can find it.
 
 ## Who makes it
 
-Whalyon is made by **[Behnam Jafari Balalami](https://behnaam.com)**, founder of Whalya Venture Studio.
+Whalyon is made by **[Behnam Jafari Balalami](https://behnaam.com)**, founder of Whalya, a product-led venture studio.
 Whalya's products are [Whalyom](https://whalyom.com) (an AI marketing department inside Claude Code), [Whalory](https://whalory.com) (AI copywriting in Persian and English) and Whalyon.
 
 | | |
