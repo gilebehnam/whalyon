@@ -138,6 +138,8 @@ Whalya's products are [Whalyom](https://whalyom.com) (an AI marketing department
 | Email | [bjafaribox@gmail.com](mailto:bjafaribox@gmail.com) |
 | Telegram | [@gilebehnam](https://t.me/gilebehnam) |
 | LinkedIn | [behnamjafari](https://www.linkedin.com/in/behnamjafari) |
+| X | [@gilebehnam](https://x.com/gilebehnam) |
+| Instagram | [@gilebehnam](https://www.instagram.com/gilebehnam/) |
 | A 30-minute call | [Book on Calendly](https://calendly.com/bjafaribox/30min) |
 | The product | [whalyon.com](https://whalyon.com) |
 
