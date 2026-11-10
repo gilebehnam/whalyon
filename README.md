@@ -19,6 +19,12 @@ You get a report card on the spot: a score for each area, the stage your busines
 answer 40 statements -> score 8 areas -> find the weakest -> one first step -> check again later -> compare
 ```
 
+<div dir="rtl">
+
+**والیون: چکاپ سلامت کسب‌وکار.** به ۴۰ جمله‌ی کوتاه درباره‌ی ۸ حوزه‌ی کسب‌وکارتان جواب می‌دهید و همان لحظه کارنامه می‌گیرید: امتیاز هر حوزه، مرحله‌ی رشد کسب‌وکار و یک قدم اول مشخص برای هر حوزه. شروع رایگان است: [whalyon.com](https://whalyon.com)
+
+</div>
+
 ## The numbers
 
 | | |
@@ -88,6 +94,37 @@ Starting is free and needs no card. Your answers stay with you.
 - Answers belong to the person who gave them; nothing is published unless you make a share card yourself.
 - Questions about feelings and satisfaction are left out on purpose, because they say more about the day than about the business.
 - Small differences between two report cards are called noise, not progress, so you do not chase a number.
+
+## FAQ
+
+**Is Whalyon free?**
+Starting is free and needs no card. Your answers stay with you.
+
+**How long does it take?**
+15 to 20 minutes, in one sitting. The report card is ready the same moment you finish.
+
+**What does the report card show?**
+A score for each of the 8 areas, a total out of 400, the stage your business is in, and one concrete first step per area: what to do, who owns it, and how you will know it worked.
+
+**Who is it for?**
+Owners and managing directors of small and mid-sized businesses, founders whose company still runs through them, and consultants who want a shared starting point before the first meeting.
+
+**Which languages does it support?**
+Today Whalyon speaks Persian and is built for businesses in Iran.
+
+**Is the source code here?**
+No. Whalyon is closed source and runs at [whalyon.com](https://whalyon.com). This repository holds its description, screenshots, changelog and the way to reach us.
+
+## More from Whalya
+
+Whalyon is made by **[Whalya](https://github.com/whalya-studio)**, a product-led venture studio.
+
+| Product | What it does |
+|:--|:--|
+| **[Whalyom](https://github.com/gilebehnam/whalyom)** | Your entire marketing department inside Claude Code: 536 AI agents in 28 departments. Open source. |
+| **[Whalory](https://github.com/gilebehnam/whalory)** | Makes the AI you already use write like a professional copywriter, in English and Persian, with local linters. |
+
+> ⭐ **If Whalyon helped you see your business more clearly, star this repository** so other owners can find it.
 
 ## Who makes it
 
